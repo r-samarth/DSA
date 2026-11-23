@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/r-samarth/DSA/tree/master/0485-max-consecutive-ones) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/r-samarth/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
