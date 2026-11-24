@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/r-samarth/DSA/tree/master/0485-max-consecutive-ones) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/r-samarth/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/r-samarth/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/r-samarth/DSA/tree/master/0203-remove-linked-list-elements) |
+## Math
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/r-samarth/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/r-samarth/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/r-samarth/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/r-samarth/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
